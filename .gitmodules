@@ -1,0 +1,3 @@
+[submodule "cpp/git2/llalatina"]
+	path = cpp/git2/llalatina
+	url = git@github.com:yukino147/llalatina.git
